@@ -23,3 +23,18 @@ This project performs sentiment analysis on Amazon product reviews to classify c
 
 ## 📁 Project Structure
 
+amazon-sentiment-analysis/
+├── data/
+│   └── amazon_reviews.csv
+├── notebooks/
+│   └── EDA_and_Modeling.ipynb
+├── models/
+│   └── sentiment_model.pkl
+├── app/
+│   ├── main.py
+│   └── utils.py
+├── requirements.txt
+├── README.md
+└── sentiment_analysis.py
+
+
